@@ -1,0 +1,7 @@
+.git*
+.vs
+packages
+*.dll
+*.exe
+*.pdb
+*.zip

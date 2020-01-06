@@ -1,0 +1,10 @@
+﻿{
+  "Name": "AuthDew",
+  "Author": "thfr",
+  "Version": "1.0.0",
+  "Description": "Client mod to authenticate with a server that uses AuthDew-server",
+  "UniqueID": "thfr.AuthDew",
+  "EntryDll": "AuthDew.dll",
+  "MinimumApiVersion": "2.10.0",
+  "UpdateKeys": []
+}
